@@ -8,6 +8,6 @@ Generates a random number between 1 and the number provided by you
 Usage - `roll a d20`
 
 ## Sports leaderboards
-This skill gives you top 10 statistics for IPL and UCL competitions
+This skill gives you top 10 statistics for various competitions such as Indian Premier League (IPL), Uefa Champions League (UCL), La Liga and English Premier League (EPL)
 
 Example usage - `top 10 goal scorers in UCL 2025-26`
